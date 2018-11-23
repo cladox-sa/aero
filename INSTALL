@@ -1,0 +1,9 @@
+Building Aero
+
+See doc/readme-qt.rst for instructions on building Aero-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Aero.
+
+See doc/build-*.txt for instructions on building aerod,
+the intended-for-services, no-graphical-interface, reference
+implementation of Aero.
