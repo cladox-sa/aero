@@ -1,10 +1,10 @@
 Aero integration/staging tree
 ================================
 
-http://www.aero.org
+http://aero.cladox.com
 
 Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Aero Developers
+Copyright (c) 2018 Aero Developers
 
 What is Aero?
 ----------------
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Aero client sofware, see http://www.aero.org.
+the Aero client sofware, see http://aero.cladox.com.
 
 License
 -------
